@@ -1,5 +1,0 @@
-<launch>
-    <!-- auto -->
-    <node pkg="auto" type="vel_con.py" name="subnode"  output="screen">
-    </node>
-</launch>
