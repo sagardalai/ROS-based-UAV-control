@@ -1,5 +1,0 @@
-<launch>
-    <!-- auto -->
-    <node pkg="auto" type="calibration.py" name="calib_node"  output="screen">
-    </node>
-</launch>
