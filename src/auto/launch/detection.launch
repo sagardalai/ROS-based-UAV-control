@@ -1,5 +1,0 @@
-<launch>
-    <!-- auto -->
-    <node pkg="auto" type="detect_aruco.py" name="node"  output="screen">
-    </node>
-</launch>
