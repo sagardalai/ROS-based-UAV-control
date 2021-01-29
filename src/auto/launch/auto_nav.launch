@@ -1,0 +1,5 @@
+<launch>
+    <!-- auto -->
+    <node pkg="auto" type="auto_nav.py" name="offb_node"  output="screen">
+    </node>
+</launch>
