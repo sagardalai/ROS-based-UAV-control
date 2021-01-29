@@ -1,5 +1,0 @@
-<launch>
-    <!-- auto -->
-    <node pkg="auto" type="PoseEstimation.py" name="pos_node"  output="screen">
-    </node>
-</launch>
