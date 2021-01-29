@@ -1,0 +1,5 @@
+<launch>
+    <!-- auto -->
+    <node pkg="auto" type="keyboard.py" name="feature_node"  output="screen">
+    </node>
+</launch>

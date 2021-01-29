@@ -1,0 +1,5 @@
+<launch>
+    <!-- auto -->
+    <node pkg="auto" type="aruco_based_nav.py" name="finenode"  output="screen">
+    </node>
+</launch>
